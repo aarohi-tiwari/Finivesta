@@ -1,2 +1,2 @@
 # Finivesta
-It was a webpage I created as a task given for the selection in technical team of finivesta .
+Its a contact us page I made as a part of technical team of finivesta . It was a part of whole website whose each part was divided among members .
